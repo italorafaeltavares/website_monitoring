@@ -2,7 +2,7 @@
 
 ##  <img align="center" alt="Python" height="60" width="45" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"/>  <img align="center" alt="Python" height="80" width="75" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"/>
 
-> <h3>Aplicacão para realizar monitoramento de sites desenvolvida a partir do treinamento de Go da Alura. <h3>
+> Aplicacão para realizar monitoramento de sites desenvolvida a partir do treinamento de Go da Alura.
 <p></p>
 
 ````
